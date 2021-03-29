@@ -1,5 +1,3 @@
-package tema2;
-
 import java.io.Serializable;
 
 /**
